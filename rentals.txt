@@ -1,0 +1,4 @@
+
+1001|Rahul Sharma|Car|2|3000.0|Active
+1002|Amit Patil|Bike|3|1500.0|Returned
+1003|Priya Shah|SUV|1|2500.0|Active
